@@ -1,12 +1,8 @@
 # Hello, Folks <img src="https://github.com/aaryanrr/aaryanrr/blob/main/wave.gif" width=30px>
 
----
-
 My name is Aryan Rai and I'm a student and currently Learning Python and Open Source. I am from India. You can find me on [Twitter](https://twitter.com/Aryann_nnn).
 
 ## 🔧 Technologies & Tools
-
----
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
@@ -17,7 +13,6 @@ My name is Aryan Rai and I'm a student and currently Learning Python and Open So
 
 ## &#x1f4c8; GitHub Stats
 
----
 
 <a href="https://github.com/aaryanrr/aaryanrr">
 

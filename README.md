@@ -1,4 +1,4 @@
-# Hello, Folks 👋
+# Hello, Folks <img src="https://github.com/aaryanrr/aaryanrr/blob/main/wave.gif" width=30px>
 
 ---
 

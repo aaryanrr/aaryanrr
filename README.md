@@ -8,6 +8,7 @@ My name is Aryan Rai and I'm a student and currently Learning Python and Open So
 ![](https://img.shields.io/badge/Editor-Vscode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Version%20Control-Git-green?style=flat&logo=git&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
 

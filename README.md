@@ -1,6 +1,7 @@
 # Hello, Folks <img src="https://github.com/aaryanrr/aaryanrr/blob/main/wave.gif" width=30px>
 
-My name is Aryan Rai and I'm a student and currently Learning Python and Open Source. I am from India. You can find me on [Twitter](https://twitter.com/Aryann_nnn).
+My name is Aryan Rai and I'm a student and currently Learning Python and Open Source. I am from India. I love listening to music and learning about new Technologies.
+You can find me on [Twitter](https://twitter.com/Aryann_nnn).
 
 ## 🔧 Technologies & Tools
 

@@ -1,10 +1,11 @@
 # Hello, Folks <img src="https://github.com/aaryanrr/aaryanrr/blob/main/wave.gif" width=30px>
 
-My name is Aryan Rai and I'm a student and currently Learning Python. I am from India. I love listening to music and learning about new Technologies.
+My name is Aryan Rai and I'm a student and currently Learning Python and C. I am from India. I love listening to music and learning about new Technologies.
 You can find me on [Twitter](https://twitter.com/Aryann_nnn).
 
 ## ⌨ Programming Languages
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
 
 ## 🔧 Technologies & Tools
 

@@ -1,6 +1,6 @@
 <h1 align="center"> <b> Hi, I am Aryan</b> <img src="https://github.com/aaryanrr/aaryanrr/blob/main/wave.gif" width=30px></h1>
 
-*I am a curious being 🤔 and a Python Developer <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="15"> who loves to tinker with Hardware 📟. I am determined to be an active Open Source Contributor. <img src="https://cdn.dribbble.com/users/329931/screenshots/5794317/2019-01-06_10-13-15.2019-01-06_10_23_01.gif" width=20 height=20 align=center>. I love to learn something new. 😲*
+*I am a curious being 🤔 and a Python Developer <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="15" align=center> who loves to tinker with Hardware 📟. I am determined to be an active Open Source Contributor. <img src="https://cdn.dribbble.com/users/329931/screenshots/5794317/2019-01-06_10-13-15.2019-01-06_10_23_01.gif" width=20 height=20 align=center>. I love to learn something new. 😲*
 
 - 📚 I am currently learning `C`. <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" width=15 align=center>
 - ⚙  I love to tinker with Hardware. 📟

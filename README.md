@@ -8,6 +8,7 @@
 - 🤩 I am interested in `Machine Learning`. 🎰
 - 🌏 I am always active on [Twitter](https://twitter.com/Aryann_nnn). (Just say Hi 👋)
 - 🔧 I love to work with Low Level Stuff. 📴
+- 🧰 I like to automate boring tasks. 💡
   
 - 👆 Follow me on [Github](https://github.com/aaryanrr). 😁
 

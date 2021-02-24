@@ -16,11 +16,11 @@
 <b><i> 📢 FUN FACTS </i></b>
 <br>
 
-<img src="https://media.giphy.com/media/l4FGDXzlX3p5U9zJS/giphy.gif" width="20"> *I love Music*. 🎶 
+<img src="https://media.giphy.com/media/l4FGDXzlX3p5U9zJS/giphy.gif" width="20" align=center> *I love Music*. 🎶 
 <br>
-<img src="https://media.giphy.com/media/l4FGDXzlX3p5U9zJS/giphy.gif" width="20"> *I love to help someone with my abilities.* ✌
+<img src="https://media.giphy.com/media/l4FGDXzlX3p5U9zJS/giphy.gif" width="20" align=center> *I love to help someone with my abilities.* ✌
 <br>
-<img src="https://media.giphy.com/media/l4FGDXzlX3p5U9zJS/giphy.gif" width="20"> *I am a Fitness Freak.* 🏋️‍♂️
+<img src="https://media.giphy.com/media/l4FGDXzlX3p5U9zJS/giphy.gif" width="20" align=center> *I am a Fitness Freak.* 🏋️‍♂️
 <br>
 
 

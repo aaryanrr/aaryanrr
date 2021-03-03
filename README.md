@@ -4,7 +4,6 @@
 
 <br>
 
-- 📚 I am currently learning `C`. <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" width=15 align=center>
 - ⚙  I love to tinker with Hardware. 📟
 - 💻 I mostly work with: `Python`. <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width=15 align=center>
 - 🤩 I am interested in `Machine Learning`. 🎰

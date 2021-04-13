@@ -1,3 +1,3 @@
-# Thanks for considering to Contribute to this Repository🙂
+# Thanks for considering contributing to this Repository🙂
 
 ## All the Contributions are welcome!! 😉

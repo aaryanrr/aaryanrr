@@ -5,7 +5,6 @@
 <br>
 
 - 💻 I mostly work with: `Python`. <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width=15 align=center>
-- 🤩 I am interested in `Machine Learning`. 🎰
 - 🌏 I am always active on [Twitter](https://twitter.com/Aryann_nnn). (Just say Hi 👋)
 - 🔧 I love to work with Low Level Stuff. 📴
 - 🧰 I like to automate boring tasks. 💡

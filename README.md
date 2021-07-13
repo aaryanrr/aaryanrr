@@ -2,8 +2,6 @@
 
 *I am a curious being 🤔, and a Python Developer <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="15" align=center> who loves to tinker with Hardware 📟. I am determined to be an active Open Source Contributor. <img src="https://cdn.dribbble.com/users/329931/screenshots/5794317/2019-01-06_10-13-15.2019-01-06_10_23_01.gif" width=20 height=20 align=center>. I love to learn something new. 😲*
 
-<br>
-
 - 💻 I mostly work with: `Python`. <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width=15 align=center>
 - 🌏 I am always active on [Twitter](https://twitter.com/Aryann_nnn). (Just say Hi 👋)
 - 🔧 I love to work with Low Level Stuff. 📴

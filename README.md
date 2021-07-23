@@ -18,7 +18,7 @@
 <!---------------------------------------------------------- About Me---------------------------------------------------->
 <div align="center">
     <h2>About Me</h2>
-    <p>I am Aryan Rai, currently pursuing my Undergrad majoring in Computer Science from SRM University. I am always looking out for gathering and sharing my knowledge with others.</p>
+    <p>I am Aryan Rai, currently pursuing my Undergrad majoring in Computer Science. I am always looking out for gathering and sharing my knowledge with others.</p>
     <p>Besides programming, I like music, talking with folks in the Developer community and spreading awareness about privacy and security.</p>
 </div>
 

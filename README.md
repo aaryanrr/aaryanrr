@@ -43,5 +43,6 @@
 
 <div align="center">
     <h2>GitHub Stats</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=aaryanrr">
+    <img src="https://github-readme-stats.vercel.app/api?username=aaryanrr&layout=compact&card_width=250&hide_border=true&theme=dracula">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryanrr&layout=compact&card_width=250&hide_border=true&theme=dracula"/>
 </div>

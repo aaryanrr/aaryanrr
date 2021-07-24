@@ -18,8 +18,8 @@
 <!---------------------------------------------------------- About Me---------------------------------------------------->
 <div align="center">
     <h2>About Me</h2>
-    <p>I am Aryan Rai, currently pursuing my Undergrad majoring in Computer Science. I am always looking out for gathering and sharing my knowledge with others.</p>
-    <p>Besides programming, I like music, talking with folks in the Developer community and spreading awareness about privacy and security.</p>
+    <p>I am Aryan Rai, currently pursuing my Undergrad majoring in Computer Science.</p>
+    <p>Besides programming, I like music and talking with folks in the Developer community.</p>
 </div>
 
 <!-------------------------------------------------------Tools and Technologies----------------------------------------->
@@ -36,15 +36,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Cmake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-    
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Travis](https://img.shields.io/badge/travis_CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white)
-![Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 </div>
 
 

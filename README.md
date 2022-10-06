@@ -36,11 +36,3 @@
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 </div>
-
-<!-----------------------------------------------------GitHub Stats ------------------------------------------------------>
-
-<div align="center">
-    <h2>GitHub Stats</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=aaryanrr&layout=compact&card_width=250&hide_border=true&theme=dracula">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryanrr&layout=compact&card_width=250&hide_border=true&theme=dracula"/>
-</div>
